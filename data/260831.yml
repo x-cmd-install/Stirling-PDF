@@ -1,0 +1,69 @@
+about:
+  description: #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+  license: NOASSERTION
+  homepage: https://stirling.com
+  head: e539eb1
+  archived: false
+  latestVersion: v2.14.3
+  collectedAt: 2026-08-31T04:40:29Z
+timeline:
+  created: 2023-01-27
+  lastCommit: 2026-08-30
+  lastRelease: 2026-08-06
+popularity:
+  star: 91005
+  watcher: 321
+  fork: 8259
+  release: 186
+  contributor: 299
+  pullRequest: 1358
+  issue: 1880
+language:
+  Java: 16062464
+  TypeScript: 13738746
+  Python: 1358345
+  CSS: 824278
+  Shell: 270424
+  JavaScript: 203492
+  Gherkin: 196635
+  Rust: 154076
+  HTML: 109854
+  Dockerfile: 52514
+  Rich Text Format: 41703
+  Groovy: 18906
+  Jinja: 6413
+  PowerShell: 1390
+totalLine: 33039240
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 1
+    mergedPR: 215
+    openPR: 109
+    closedIssue: 10
+    openIssue: 42
+    commit: 214
+  last90d:
+    since: 2026-06-02
+    release: 8
+    mergedPR: 664
+    openPR: 186
+    closedIssue: 39
+    openIssue: 90
+    commit: 706
+  last180d:
+    since: 2026-03-04
+    release: 19
+    mergedPR: 1031
+    openPR: 210
+    closedIssue: 77
+    openIssue: 150
+    commit: 1048
+  last360d:
+    since: 2025-09-05
+    release: 51
+    mergedPR: 1837
+    openPR: 214
+    closedIssue: 238
+    openIssue: 239
+    commit: 1740
