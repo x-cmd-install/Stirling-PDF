@@ -5,15 +5,15 @@ about:
   head: 1b0941c
   archived: false
   latestVersion: "v2.14.3"
-  collectedAt: 2026-09-08T02:21:01Z
+  collectedAt: 2026-09-08T05:06:25Z
 timeline:
   created: 2023-01-27
   lastCommit: 2026-09-07
   lastRelease: 2026-08-06
 popularity:
-  star: 91478
+  star: 91491
   watcher: 323
-  fork: 8305
+  fork: 8306
   release: 186
   contributor: 304
   pullRequest: 5673
@@ -92,7 +92,7 @@ total:
   commit: 5994
 ---
 path: /home/runner/.x-repo/github.com/Stirling-Tools/Stirling-PDF
-collectedAt: 2026-09-08T02:21:37Z
+collectedAt: 2026-09-08T05:07:00Z
 loc:
   Toml:
     code: 429577
