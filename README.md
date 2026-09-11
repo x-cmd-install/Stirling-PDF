@@ -12,6 +12,28 @@
 x install Stirling-PDF
 ```
 
+## Code insight
+
+Total: **1,442,302** lines of code across **5672** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Toml | 429,708 | 14 | 80,592 | 47 |
+| Java | 311,451 | 32,659 | 55,684 | 2297 |
+| Tsx | 240,866 | 14,604 | 20,146 | 1767 |
+| TypeScript | 181,282 | 25,632 | 20,253 | 1525 |
+| JavaScript | 105,564 | 2,198 | 5,889 | 36 |
+
+## OpenSSF Scorecard
+
+Overall score: **7.1 / 10**
+
+Lowest-scoring checks:
+
+- **CII-Best-Practices** (2/10) — badge detected: InProgress
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Fuzzing** (0/10) — project is not fuzzed
+
 ## Source
 
 - **Upstream**: <https://github.com/Stirling-Tools/Stirling-PDF>
@@ -23,6 +45,25 @@ x install Stirling-PDF
 - **Latest**: `v2.14.3` (2026-08-06)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 11
+
+## Popularity
+
+- **Stars**: 91,687 · **Forks**: 8,315 · **Open issues**: 1,896 · **Contributors**: 304
+
+## Totals (cumulative)
+
+- **Releases**: 186 · **Merged PRs**: 4305 · **Open PRs**: 248 · **Closed issues**: 1509 · **Open issues**: 387 · **Commits**: 6025
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 195 | 127 | 9 | 40 | 225 |
+| last60d | 2026-07-13 | 1 | 439 | 191 | 21 | 63 | 484 |
+| 90d | 2026-06-13 | 7 | 664 | 218 | 40 | 91 | 696 |
+| last180d | 2026-03-15 | 16 | 1082 | 243 | 73 | 155 | 1113 |
+| 360d | 2025-09-16 | 48 | 1908 | 248 | 238 | 242 | 1826 |
+| last720d | 2024-09-21 | 100 | 3443 | 248 | 757 | 334 | 3646 |
 
 ## Release assets
 
@@ -40,44 +81,6 @@ x install Stirling-PDF
 | [Stirling-PDF-with-login.jar](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v2.14.3/Stirling-PDF-with-login.jar) | 348.7 MiB | `other` |
 | [Stirling-PDF.jar](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v2.14.3/Stirling-PDF.jar) | 274.2 MiB | `other` |
 
-## Popularity
-
-- **Stars**: 91,666 · **Forks**: 8,314 · **Open issues**: 1,896 · **Contributors**: 304
-
-## Totals (cumulative)
-
-- **Releases**: 186 · **Merged PRs**: 4304 · **Open PRs**: 248 · **Closed issues**: 1509 · **Open issues**: 387 · **Commits**: 6024
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 209 | 134 | 9 | 41 | 224 |
-| 90d | 2026-06-12 | 7 | 665 | 219 | 40 | 92 | 695 |
-| 360d | 2025-09-15 | 48 | 1908 | 248 | 239 | 243 | 1825 |
-
-## Code size
-
-Total: **1,441,547** lines of code across **5665** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Toml | 429,695 | 14 | 80,588 | 47 |
-| Java | 310,896 | 32,598 | 55,570 | 2293 |
-| Tsx | 240,771 | 14,589 | 20,142 | 1765 |
-| TypeScript | 181,203 | 25,597 | 20,239 | 1524 |
-| JavaScript | 105,564 | 2,198 | 5,889 | 36 |
-
-## OpenSSF Scorecard
-
-Overall score: **7.1 / 10**
-
-Lowest-scoring checks:
-
-- **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **CI-Tests** (-1/10) — internal error: internal error: Client.Repositories.ListCheckRunsForRef: error during graphqlHandler.setupCheckRuns: Alt…
-- **SAST** (-1/10) — internal error: internal error: Client.Checks.ListCheckRunsForRef: error during graphqlHandler.setupCheckRuns: Although …
-
 ## Improve this data
 
 Install metadata for Stirling-PDF lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `Stirling-PDF` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +90,4 @@ Install metadata for Stirling-PDF lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:03:50Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:02:48Z._
