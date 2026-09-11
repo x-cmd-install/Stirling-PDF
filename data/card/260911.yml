@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.14.3"
   latestRelease: "v2.14.3"
   latestPrerelease: "stirling-pdf-chart-1.0.1"
-  collectedAt: 2026-09-11T00:01:14Z
+  collectedAt: 2026-09-11T05:19:00Z
 timeline:
   created: 2023-01-27
   lastCommit: 2026-09-10
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-08-06
   lastPrerelease: 2024-11-04
 popularity:
-  star: 91687
+  star: 91715
   watcher: 318
-  fork: 8315
+  fork: 8319
   release: 186
   contributor: 304
-  pullRequest: 5737
-  issue: 1896
+  pullRequest: 5738
+  issue: 1897
 language:
   Java: 16543154
   TypeScript: 16327112
@@ -43,60 +43,60 @@ recent:
     since: 2026-08-12
     release: 0
     mergedPR: 195
-    openPR: 127
+    openPR: 128
     closedIssue: 9
-    openIssue: 40
+    openIssue: 41
     commit: 225
   last60d:
     since: 2026-07-13
     release: 1
     mergedPR: 439
-    openPR: 191
+    openPR: 192
     closedIssue: 21
-    openIssue: 63
+    openIssue: 64
     commit: 484
   last90d:
     since: 2026-06-13
     release: 7
     mergedPR: 664
-    openPR: 218
+    openPR: 219
     closedIssue: 40
-    openIssue: 91
+    openIssue: 92
     commit: 696
   last180d:
     since: 2026-03-15
     release: 16
     mergedPR: 1082
-    openPR: 243
+    openPR: 244
     closedIssue: 73
-    openIssue: 155
+    openIssue: 156
     commit: 1113
   last360d:
     since: 2025-09-16
     release: 48
     mergedPR: 1908
-    openPR: 248
+    openPR: 249
     closedIssue: 238
-    openIssue: 242
+    openIssue: 243
     commit: 1826
   last720d:
     since: 2024-09-21
     release: 100
     mergedPR: 3443
-    openPR: 248
+    openPR: 249
     closedIssue: 757
-    openIssue: 334
+    openIssue: 335
     commit: 3646
 total:
   release: 186
   mergedPR: 4305
-  openPR: 248
+  openPR: 249
   closedIssue: 1509
-  openIssue: 387
+  openIssue: 388
   commit: 6025
 ---
 path: /home/runner/.x-repo/github.com/Stirling-Tools/Stirling-PDF
-collectedAt: 2026-09-11T00:01:56Z
+collectedAt: 2026-09-11T05:19:32Z
 loc:
   Toml:
     code: 429708
