@@ -4,7 +4,7 @@
 
 #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 
-[![x-cmd/install — Stirling-PDF Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Stirling-PDF.svg)](https://x-cmd.com/install/Stirling-PDF)
+[![x-cmd/install — Stirling-PDF Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/Stirling-PDF.svg)](https://x-cmd.com/install/Stirling-PDF)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install Stirling-PDF
 
 ## Code insight
 
-Total: **1,538,608** lines of code across **6271** files in the top 5 languages.
+Total: **1,552,895** lines of code across **6394** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Toml | 430,149 | 14 | 80,650 | 47 |
-| Java | 340,229 | 35,176 | 59,820 | 2475 |
-| Tsx | 261,774 | 15,418 | 21,521 | 1939 |
-| TypeScript | 203,151 | 27,536 | 22,567 | 1773 |
-| JavaScript | 106,106 | 2,289 | 5,910 | 37 |
+| Toml | 430,247 | 14 | 80,660 | 47 |
+| Java | 343,015 | 35,178 | 60,056 | 2495 |
+| Tsx | 267,091 | 14,827 | 21,824 | 1983 |
+| TypeScript | 208,405 | 27,435 | 22,834 | 1832 |
+| JavaScript | 106,106 | 2,292 | 5,911 | 37 |
 
 ## OpenSSF Scorecard
 
@@ -31,8 +31,8 @@ Overall score: **7 / 10**
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 - **CI-Tests** (-1/10) — internal error: internal error: Client.Repositories.ListCheckRunsForRef: error during graphqlHandler.setupCheckRuns: Alt…
+- **SAST** (-1/10) — internal error: internal error: Client.Checks.ListCheckRunsForRef: error during graphqlHandler.setupCheckRuns: Although …
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.14.3` (2026-08-06)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-23
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 92,767 · **Forks**: 9,115 · **Open issues**: 1,914 · **Contributors**: 303
+- **Stars**: 92,839 · **Forks**: 9,123 · **Open issues**: 1,915 · **Contributors**: 303
 
 ## Totals (cumulative)
 
-- **Releases**: 186 · **Merged PRs**: 4424 · **Open PRs**: 235 · **Closed issues**: 1511 · **Open issues**: 403 · **Commits**: 6141
+- **Releases**: 186 · **Merged PRs**: 4449 · **Open PRs**: 225 · **Closed issues**: 1512 · **Open issues**: 403 · **Commits**: 6165
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 213 | 117 | 5 | 43 | 229 |
-| last60d | 2026-07-24 | 1 | 477 | 165 | 18 | 74 | 521 |
-| 90d | 2026-06-24 | 5 | 697 | 203 | 32 | 94 | 728 |
-| last180d | 2026-03-26 | 14 | 1167 | 230 | 70 | 167 | 1184 |
-| 360d | 2025-09-27 | 48 | 1978 | 235 | 236 | 255 | 1842 |
-| last720d | 2024-10-02 | 100 | 3548 | 235 | 746 | 349 | 3750 |
+| 30d | 2026-08-24 | 0 | 233 | 104 | 6 | 41 | 253 |
+| last60d | 2026-07-25 | 1 | 497 | 155 | 19 | 74 | 545 |
+| 90d | 2026-06-25 | 4 | 717 | 192 | 29 | 93 | 752 |
+| last180d | 2026-03-27 | 14 | 1189 | 219 | 70 | 165 | 1208 |
+| 360d | 2025-09-28 | 48 | 1993 | 225 | 237 | 255 | 1866 |
+| last720d | 2024-10-03 | 100 | 3573 | 225 | 746 | 349 | 3773 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for Stirling-PDF lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:27:35Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:35:00Z._
