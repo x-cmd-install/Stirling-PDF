@@ -14,14 +14,14 @@ x install Stirling-PDF
 
 ## 代码洞察
 
-合计: **1,465,093** 行代码（覆盖前 5 种语言、共 **6487** 个文件）。
+合计: **1,474,798** 行代码（覆盖前 5 种语言、共 **6498** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Toml | 476,866 | 15 | 85,528 | 47 |
+| Toml | 483,556 | 15 | 86,374 | 47 |
 | Java | 350,642 | 35,772 | 61,018 | 2529 |
-| Tsx | 264,099 | 14,744 | 21,807 | 1978 |
-| TypeScript | 209,148 | 27,322 | 22,834 | 1842 |
+| Tsx | 266,344 | 14,723 | 21,997 | 1982 |
+| TypeScript | 209,917 | 27,376 | 22,892 | 1849 |
 | Json | 73,192 | 0 | 9 | 91 |
 
 ## OpenSSF Scorecard 评分
@@ -31,7 +31,7 @@ x install Stirling-PDF
 评分最低的几项:
 
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **SAST** (-1/10) — internal error: internal error: Client.Checks.ListCheckRunsForRef: error during graphqlHandler.setupCheckRuns: Although …
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 - **CI-Tests** (-1/10) — internal error: internal error: Client.Repositories.ListCheckRunsForRef: error during graphqlHandler.setupCheckRuns: Alt…
 
 ## 源代码
@@ -42,44 +42,44 @@ x install Stirling-PDF
 
 ## 发布
 
-- **最新版本**: `v3.0.1` (2026-09-26)
-- **最近提交**: 2026-09-30
+- **最新版本**: `v3.0.2` (2026-10-01)
+- **最近提交**: 2026-10-01
 - **Release 含资产**: 11 个
 
 ## 流行度
 
-- **Star**: 93,348 · **Fork**: 10,035 · **开放 issue**: 1,939 · **贡献者**: 306
+- **Star**: 93,410 · **Fork**: 10,037 · **开放 issue**: 1,941 · **贡献者**: 306
 
 ## 累计统计
 
-- **发布数**: 188 · **已合并 PR**: 4536 · **开放 PR**: 178 · **已关闭 issue**: 1529 · **开放 issue**: 410 · **提交数**: 6252
+- **发布数**: 189 · **已合并 PR**: 4549 · **开放 PR**: 178 · **已关闭 issue**: 1530 · **开放 issue**: 411 · **提交数**: 6265
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 2 | 269 | 118 | 8 | 47 | 284 |
-| last60d | 2026-08-02 | 3 | 522 | 149 | 27 | 81 | 562 |
-| 90d | 2026-07-03 | 5 | 768 | 168 | 39 | 96 | 812 |
-| last180d | 2026-04-04 | 14 | 1240 | 177 | 81 | 167 | 1273 |
-| 360d | 2025-10-06 | 50 | 2019 | 178 | 248 | 261 | 1920 |
-| last720d | 2024-10-11 | 100 | 3649 | 178 | 755 | 354 | 3851 |
+| 30d | 2026-09-02 | 3 | 262 | 119 | 8 | 46 | 297 |
+| last60d | 2026-08-03 | 4 | 522 | 149 | 26 | 82 | 575 |
+| 90d | 2026-07-04 | 6 | 779 | 169 | 39 | 97 | 825 |
+| last180d | 2026-04-05 | 14 | 1252 | 177 | 82 | 168 | 1286 |
+| 360d | 2025-10-07 | 51 | 2026 | 178 | 249 | 262 | 1933 |
+| last720d | 2024-10-12 | 100 | 3662 | 178 | 756 | 355 | 3864 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [latest.json](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.1/latest.json) | 5.4 KiB | `other` |
-| [Stirling-PDF-linux-x86_64.AppImage](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.1/Stirling-PDF-linux-x86_64.AppImage) | 384.8 MiB | `native/linux/x64` |
-| [Stirling-PDF-linux-x86_64.deb](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.1/Stirling-PDF-linux-x86_64.deb) | 306.0 MiB | `native/linux/x64` |
-| [Stirling-PDF-linux-x86_64.rpm](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.1/Stirling-PDF-linux-x86_64.rpm) | 303.9 MiB | `native/linux/x64` |
-| [Stirling-PDF-macos-universal.app.tar.gz](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.1/Stirling-PDF-macos-universal.app.tar.gz) | 428.6 MiB | `native/darwin/x64` |
-| [Stirling-PDF-macos-universal.dmg](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.1/Stirling-PDF-macos-universal.dmg) | 429.1 MiB | `native/darwin/x64` |
-| [Stirling-PDF-server.jar](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.1/Stirling-PDF-server.jar) | 183.8 MiB | `other` |
-| [Stirling-PDF-windows-arm64-setup.exe](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.1/Stirling-PDF-windows-arm64-setup.exe) | 290.7 MiB | `native/win/arm64` |
-| [Stirling-PDF-windows-x86_64.msi](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.1/Stirling-PDF-windows-x86_64.msi) | 314.0 MiB | `native/win/x64` |
-| [Stirling-PDF-with-login.jar](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.1/Stirling-PDF-with-login.jar) | 327.8 MiB | `other` |
-| [Stirling-PDF.jar](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.1/Stirling-PDF.jar) | 244.6 MiB | `other` |
+| [latest.json](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.2/latest.json) | 5.4 KiB | `other` |
+| [Stirling-PDF-linux-x86_64.AppImage](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.2/Stirling-PDF-linux-x86_64.AppImage) | 381.7 MiB | `native/linux/x64` |
+| [Stirling-PDF-linux-x86_64.deb](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.2/Stirling-PDF-linux-x86_64.deb) | 302.9 MiB | `native/linux/x64` |
+| [Stirling-PDF-linux-x86_64.rpm](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.2/Stirling-PDF-linux-x86_64.rpm) | 300.7 MiB | `native/linux/x64` |
+| [Stirling-PDF-macos-universal.app.tar.gz](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.2/Stirling-PDF-macos-universal.app.tar.gz) | 425.7 MiB | `native/darwin/x64` |
+| [Stirling-PDF-macos-universal.dmg](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.2/Stirling-PDF-macos-universal.dmg) | 426.1 MiB | `native/darwin/x64` |
+| [Stirling-PDF-server.jar](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.2/Stirling-PDF-server.jar) | 180.3 MiB | `other` |
+| [Stirling-PDF-windows-arm64-setup.exe](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.2/Stirling-PDF-windows-arm64-setup.exe) | 287.5 MiB | `native/win/arm64` |
+| [Stirling-PDF-windows-x86_64.msi](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.2/Stirling-PDF-windows-x86_64.msi) | 310.8 MiB | `native/win/x64` |
+| [Stirling-PDF-with-login.jar](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.2/Stirling-PDF-with-login.jar) | 324.8 MiB | `other` |
+| [Stirling-PDF.jar](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.2/Stirling-PDF.jar) | 241.3 MiB | `other` |
 
 ## 改进这些数据
 
@@ -90,4 +90,4 @@ Stirling-PDF 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261001.yml` · 2026-10-01T06:20:27Z._
+_数据快照: `data/card/261002.yml` · 2026-10-02T06:01:08Z._
