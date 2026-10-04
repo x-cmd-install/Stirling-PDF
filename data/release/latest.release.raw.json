@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5576,
       "digest": "sha256:9954d207a198f933001ff2f5949bc3999110b48e6b5d8e9bf8c971b7f7dacd99",
-      "download_count": 9393,
+      "download_count": 12595,
       "created_at": "2026-10-01T15:51:36Z",
       "updated_at": "2026-10-01T15:51:37Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.2/latest.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 400235000,
       "digest": "sha256:091b9b4f2510442444a80fb3aabcdff00c6727cc884aae6bdd22d2753b4a5d60",
-      "download_count": 130,
+      "download_count": 229,
       "created_at": "2026-10-01T15:51:36Z",
       "updated_at": "2026-10-01T15:51:57Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.2/Stirling-PDF-linux-x86_64.AppImage"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 317580806,
       "digest": "sha256:9b03757f817a23d421ad428c9777e90e9a94f6d5c1c88b29f39f96af86ddb9f6",
-      "download_count": 350,
+      "download_count": 623,
       "created_at": "2026-10-01T15:51:36Z",
       "updated_at": "2026-10-01T15:51:54Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.2/Stirling-PDF-linux-x86_64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 315291044,
       "digest": "sha256:c0d7b58c746322355614fae607691c2f33f3c39a59a2c34ef6ea05edf5c509e2",
-      "download_count": 109,
+      "download_count": 148,
       "created_at": "2026-10-01T15:51:36Z",
       "updated_at": "2026-10-01T15:51:56Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.2/Stirling-PDF-linux-x86_64.rpm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 446357156,
       "digest": "sha256:c572f29e0d856222c066476ff12c3809b090f72d4fe896bb3c260c17d54c2b0c",
-      "download_count": 372,
+      "download_count": 498,
       "created_at": "2026-10-01T15:51:36Z",
       "updated_at": "2026-10-01T15:51:59Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.2/Stirling-PDF-macos-universal.app.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 446809535,
       "digest": "sha256:d5d99d2fd0a3b8917183cb90d73e5e86820f52a6f864b113c1f2c8b5579c48a6",
-      "download_count": 1208,
+      "download_count": 1840,
       "created_at": "2026-10-01T15:51:36Z",
       "updated_at": "2026-10-01T15:52:01Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.2/Stirling-PDF-macos-universal.dmg"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 189015190,
       "digest": "sha256:f4bc10311d9158f0d507de49db076d00f7e368a09b3dd0d101d111ecc6c5d211",
-      "download_count": 59,
+      "download_count": 77,
       "created_at": "2026-10-01T15:51:36Z",
       "updated_at": "2026-10-01T15:51:48Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.2/Stirling-PDF-server.jar"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 301496400,
       "digest": "sha256:166a74901ef10625d9a55b573b01822fb2943f9d4f67628e074d8a7880176178",
-      "download_count": 164,
+      "download_count": 272,
       "created_at": "2026-10-01T15:51:36Z",
       "updated_at": "2026-10-01T15:51:55Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.2/Stirling-PDF-windows-arm64-setup.exe"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 325881856,
       "digest": "sha256:f2eaadd3e7b7ab7e8f404ff2edb4711e066cbbddbd32c1a0e66d4137fdad088d",
-      "download_count": 6361,
+      "download_count": 8882,
       "created_at": "2026-10-01T15:51:36Z",
       "updated_at": "2026-10-01T15:51:54Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.2/Stirling-PDF-windows-x86_64.msi"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 340592999,
       "digest": "sha256:413a7aa6b6131bccb975dc5a314faf7602c16dac3eab3b53e37b5b2c53c70141",
-      "download_count": 441,
+      "download_count": 591,
       "created_at": "2026-10-01T15:51:36Z",
       "updated_at": "2026-10-01T15:51:55Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.2/Stirling-PDF-with-login.jar"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 253039250,
       "digest": "sha256:94665d8cca76af1838a454028650bf97612f24f9058b3a775f81aea1ec8889b4",
-      "download_count": 638,
+      "download_count": 884,
       "created_at": "2026-10-01T15:51:36Z",
       "updated_at": "2026-10-01T15:51:51Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.2/Stirling-PDF.jar"
