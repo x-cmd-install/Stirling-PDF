@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5568,
       "digest": "sha256:dd1f44c07504656f6b65ca9482aa5b53529234ab7026673643675275dcfdb9b9",
-      "download_count": 12290,
+      "download_count": 18433,
       "created_at": "2026-10-15T21:26:03Z",
       "updated_at": "2026-10-15T21:26:03Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.0/latest.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 343157240,
       "digest": "sha256:795cd790abb87392d5650c450af5f3c32fac4bf9b6bdd6cf779a745ec847ccdd",
-      "download_count": 289,
+      "download_count": 383,
       "created_at": "2026-10-15T21:26:03Z",
       "updated_at": "2026-10-15T21:26:31Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.0/Stirling-PDF-linux-x86_64.AppImage"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 260526104,
       "digest": "sha256:d5b29a6af4ffdb1d15c25dbfacde5c4f7bca89b7d1bab006316dc0e3235bc6cf",
-      "download_count": 549,
+      "download_count": 736,
       "created_at": "2026-10-15T21:26:03Z",
       "updated_at": "2026-10-15T21:26:24Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.0/Stirling-PDF-linux-x86_64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 258215250,
       "digest": "sha256:4fca477f0d872d53d0a84f346179e1bb916fe1b87ddc93add73afbb4bee77dde",
-      "download_count": 289,
+      "download_count": 336,
       "created_at": "2026-10-15T21:26:03Z",
       "updated_at": "2026-10-15T21:26:23Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.0/Stirling-PDF-linux-x86_64.rpm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 332243141,
       "digest": "sha256:750571ee747f9c81bd494f46a51dfaec7a2f9e96fea8f7f3f3faa1c5ae54acfa",
-      "download_count": 273,
+      "download_count": 401,
       "created_at": "2026-10-15T21:26:03Z",
       "updated_at": "2026-10-15T21:26:31Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.0/Stirling-PDF-macos-universal.app.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 332757437,
       "digest": "sha256:12c85987121b03e2a49e74cfa663a60e72f41bef66a6c6a16b40f5d1fe1722cf",
-      "download_count": 2205,
+      "download_count": 3098,
       "created_at": "2026-10-15T21:26:03Z",
       "updated_at": "2026-10-15T21:26:30Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.0/Stirling-PDF-macos-universal.dmg"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 188652940,
       "digest": "sha256:4984ac9d0251957f0b172029b4a5e22c1c4143ab256786e88c6dc2689ce94920",
-      "download_count": 160,
+      "download_count": 223,
       "created_at": "2026-10-15T21:26:03Z",
       "updated_at": "2026-10-15T21:26:18Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.0/Stirling-PDF-server.jar"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 243798784,
       "digest": "sha256:0fec67f896b8b0970ecf4fe19d0cbe6fdf7e3dca830f9d08b68e39a491529a35",
-      "download_count": 534,
+      "download_count": 743,
       "created_at": "2026-10-15T21:26:03Z",
       "updated_at": "2026-10-15T21:26:23Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.0/Stirling-PDF-windows-arm64-setup.exe"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 268820480,
       "digest": "sha256:043a2b01324dea6fe126fb6e658aa52f8106abe33ef5df8ef752c4ca05f5c8b1",
-      "download_count": 8927,
+      "download_count": 12995,
       "created_at": "2026-10-15T21:26:03Z",
       "updated_at": "2026-10-15T21:26:25Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.0/Stirling-PDF-windows-x86_64.msi"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 385056120,
       "digest": "sha256:1c26a7046c04692abbbe3dffb043924a308e288f189fa2d9fda9a171c5c8b9de",
-      "download_count": 585,
+      "download_count": 782,
       "created_at": "2026-10-15T21:26:03Z",
       "updated_at": "2026-10-15T21:26:38Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.0/Stirling-PDF-with-login.jar"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 297471424,
       "digest": "sha256:5a0c2aeb4450b948bcc4f330bc0cdca8a22f16a1213080640e38260acb80d665",
-      "download_count": 1041,
+      "download_count": 1382,
       "created_at": "2026-10-15T21:26:03Z",
       "updated_at": "2026-10-15T21:26:26Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.0/Stirling-PDF.jar"
@@ -438,8 +438,8 @@
   "body": "Another good release!\r\nThe old multi-tool has been replaced by a completely redesigned Page Editor. It now resupports images, renaming files, and a bunch of QOL UI changes making it much easier to rearrange and manage your documents. Please let us know what you think and if you have any issues with it!\r\n\r\nSome big changes in how we handle password-protected PDF, They can now be opened for viewing and used with common tools without having to remove the password first, and your existing PDF permission settings are kept when unlocking.\r\n\r\nOther changes are: \r\n- Stirling Sign now emails participants and requesters as a signing request progresses\r\n- Drop files anywhere on the workbench, plus a redesigned add-files button\r\n- Compression now tells you when it could not shrink a file\r\n- Tidied booklet imposition UI with guide diagrams\r\n- Optional redirectBaseUrl for OAuth2 and SAML when running behind reverse proxies\r\n- Faster startup and lower memory use in the viewer and text editor\r\n- Refreshed icons and chat UI improvements\r\n\r\nWe also fixed some bugs including\r\n- Desktop crashing when reordering files on Mac\r\n- Form drafts being lost before saves completed\r\n- Signatures being lost when adjusting page size and scale\r\n- Sign tool crashing when navigating away\r\n- Chat not updating the file version correctly\r\n- S3 uploads failing on retry\r\n\r\n<!-- Release notes generated using configuration in .github/release.yml at main -->\r\n\r\n## What's Changed\r\n### Bug Fixes\r\n* fix(desktop): avoid WebKit crash when reordering files by @NimeshXTV in https://github.com/Stirling-Tools/Stirling-PDF/pull/8318\r\n* fix(forms): preserve drafts and await completed saves by @ConnorYoh in https://github.com/Stirling-Tools/Stirling-PDF/pull/8455\r\n### Enhancements\r\n* Replace multi-tool with redesigned Page Editor by @jbrunton96 in https://github.com/Stirling-Tools/Stirling-PDF/pull/7618\r\n* Align the Stirling wordmark with the mark in the AI chat header by @EthanHealy01 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8361\r\n* Email shared-signing participants and requesters as a request progresses by @ConnorYoh in https://github.com/Stirling-Tools/Stirling-PDF/pull/8312\r\n* Show teammate profile pictures on the team roster by @ConnorYoh in https://github.com/Stirling-Tools/Stirling-PDF/pull/8158\r\n* Delete legacy prototypes folder from frontend by @jbrunton96 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8383\r\n* Reopen the S3 upload stream on each retry by @Frooodle in https://github.com/Stirling-Tools/Stirling-PDF/pull/8292\r\n* Fix SaaS signing participant lookup and remove scope configuration by @ConnorYoh in https://github.com/Stirling-Tools/Stirling-PDF/pull/8374\r\n* Show Enterprise quote action and continue setup after account linking by @ConnorYoh in https://github.com/Stirling-Tools/Stirling-PDF/pull/8384\r\n* Redraw QR code, automate, redact and replace-text icons; outline active quick access bar icons by @EthanHealy01 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8362\r\n* Fix SaaS OAuth consent discarding the code on reconnect by @Frooodle in https://github.com/Stirling-Tools/Stirling-PDF/pull/8377\r\n* Redesign the workbench add-files CTA by @EthanHealy01 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8381\r\n* Serve the OpenAI apps domain-verification token on SaaS by @Frooodle in https://github.com/Stirling-Tools/Stirling-PDF/pull/8398\r\n* Add temporary stored files and public share links by @Frooodle in https://github.com/Stirling-Tools/Stirling-PDF/pull/8396\r\n* Add MCP tool titles and annotations for Claude and ChatGPT directories by @Frooodle in https://github.com/Stirling-Tools/Stirling-PDF/pull/8397\r\n* Support images in Page Editor by @jbrunton96 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8410\r\n* chore: consolidate root-level docs and remove dead config by @balazs-szucs in https://github.com/Stirling-Tools/Stirling-PDF/pull/8386\r\n* Add extra page actions to Page Editor by @jbrunton96 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8408\r\n* Accept file drops across the whole workbench by @EthanHealy01 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8379\r\n* Remove section tabs from Usage & Billing by @ConnorYoh in https://github.com/Stirling-Tools/Stirling-PDF/pull/8164\r\n* Support renaming files in Page Editor by @jbrunton96 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8415\r\n* Add managed desktop sign-in and document privacy policies by @ConnorYoh in https://github.com/Stirling-Tools/Stirling-PDF/pull/8392\r\n* Fix AI chat not updating the file version properly by @jbrunton96 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8416\r\n* Improve UI of Stirling Agent by @jbrunton96 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8385\r\n* Drop the redundant Stirling tooltip on the quick nav brand mark by @EthanHealy01 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8411\r\n* Show the getting-started checklist only to users who need it by @EthanHealy01 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8313\r\n* perf(sidebar): defer file thumbnail generation until a row nears the viewport by @balazs-szucs in https://github.com/Stirling-Tools/Stirling-PDF/pull/8034\r\n* Fix flaky WebKit text editor e2e tests by @Frooodle in https://github.com/Stirling-Tools/Stirling-PDF/pull/8427\r\n* perf(viewer): optimize PDF text editor WASM memory management with reusable scratch buffers by @balazs-szucs in https://github.com/Stirling-Tools/Stirling-PDF/pull/8099\r\n* Speed up frontend tests by @jbrunton96 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8423\r\n* perf(build): precompress the dist, shrink startup, defer the pdfium wasm by @balazs-szucs in https://github.com/Stirling-Tools/Stirling-PDF/pull/8043\r\n* Prefill PDF permission settings and preserve them when unlocking by @ConnorYoh in https://github.com/Stirling-Tools/Stirling-PDF/pull/8430\r\n* Have Text Editor maintain existing accessibility tags on save by @jbrunton96 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8447\r\n* Tidy booklet imposition UI and add guide diagrams by @ConnorYoh in https://github.com/Stirling-Tools/Stirling-PDF/pull/8454\r\n* Preserve applied signatures when adjusting page size and scale by @ConnorYoh in https://github.com/Stirling-Tools/Stirling-PDF/pull/8457\r\n* Fix Sign navigation crash and apply signatures before leaving by @ConnorYoh in https://github.com/Stirling-Tools/Stirling-PDF/pull/8456\r\n* Add opt-in redirectBaseUrl for OAuth2 and SAML behind reverse proxies by @Frooodle in https://github.com/Stirling-Tools/Stirling-PDF/pull/8473\r\n* Fix flaky nightlies by @jbrunton96 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8478\r\n* Fail a redaction the engine could not verify by @EthanHealy01 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8451\r\n* Add a Match Case option to auto-redact, off by default by @EthanHealy01 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8452\r\n* Send MCP usage analytics to PostHog by @Frooodle in https://github.com/Stirling-Tools/Stirling-PDF/pull/8476\r\n* Text editor accessibility improvements by @jbrunton96 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8460\r\n* Tell the user when compression could not shrink a file by @EthanHealy01 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8482\r\n* Unlock protected PDFs for viewing and common tools without removing passwords by @ConnorYoh in https://github.com/Stirling-Tools/Stirling-PDF/pull/8393\r\n* Add SaaS Enterprise trials, usage and procurement access by @ConnorYoh in https://github.com/Stirling-Tools/Stirling-PDF/pull/8453\r\n* Honor PDF permissions by default with an administrator bypass setting by @ConnorYoh in https://github.com/Stirling-Tools/Stirling-PDF/pull/8466\r\n### Docker Updates\r\n* chore(docker): update ImageMagick to 7.1.2-33 by @github-actions[bot] in https://github.com/Stirling-Tools/Stirling-PDF/pull/8444\r\n### Other Changes\r\n* docs: refresh home-light.png with current editor UI by @balazs-szucs in https://github.com/Stirling-Tools/Stirling-PDF/pull/8352\r\n* Add Stale PR bot by @jbrunton96 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8306\r\n* docs: remove obsolete type3 font documentation by @balazs-szucs in https://github.com/Stirling-Tools/Stirling-PDF/pull/8387\r\n* Speed up /deploypr by dropping the layer cache and redundant host build by @Frooodle in https://github.com/Stirling-Tools/Stirling-PDF/pull/8395\r\n* Add PR size limit for OSS PRs by @jbrunton96 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8353\r\n\r\n## New Contributors\r\n* @NimeshXTV made their first contribution in https://github.com/Stirling-Tools/Stirling-PDF/pull/8318\r\n\r\n**Full Changelog**: https://github.com/Stirling-Tools/Stirling-PDF/compare/v3.1.0...v3.2.0",
   "reactions": {
     "url": "https://api.github.com/repos/Stirling-Tools/Stirling-PDF/releases/414249797/reactions",
-    "total_count": 25,
-    "+1": 7,
+    "total_count": 26,
+    "+1": 8,
     "-1": 0,
     "laugh": 0,
     "hooray": 9,
