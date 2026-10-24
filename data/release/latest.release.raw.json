@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5568,
       "digest": "sha256:1b2d7346b1a73e50753e4efb0538f5c86429da3828ab1c899a69cc06d8a16a2c",
-      "download_count": 4935,
+      "download_count": 9801,
       "created_at": "2026-10-21T22:23:02Z",
       "updated_at": "2026-10-21T22:23:02Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.1/latest.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 343423480,
       "digest": "sha256:f7928f32b611f8cf0c33a53f478613aa6855383064a10e5e6b96c4a3484898a9",
-      "download_count": 122,
+      "download_count": 280,
       "created_at": "2026-10-21T22:23:02Z",
       "updated_at": "2026-10-21T22:23:28Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.1/Stirling-PDF-linux-x86_64.AppImage"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 260788494,
       "digest": "sha256:13e7c2c3553d1c4f6d10298c88cfbd4316f02594a9da517550d8287ab7bb887f",
-      "download_count": 188,
+      "download_count": 387,
       "created_at": "2026-10-21T22:23:02Z",
       "updated_at": "2026-10-21T22:23:22Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.1/Stirling-PDF-linux-x86_64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 258470522,
       "digest": "sha256:8e6385ea7ef238641e9d2492a2daabb17cb780eebc28d8f1092d59461c225ee5",
-      "download_count": 128,
+      "download_count": 184,
       "created_at": "2026-10-21T22:23:02Z",
       "updated_at": "2026-10-21T22:23:24Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.1/Stirling-PDF-linux-x86_64.rpm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 332776224,
       "digest": "sha256:d08037cad2e3995c8b2df832803ebb2e6a69d84c08cdd8d43fa6f8999f7a473a",
-      "download_count": 96,
+      "download_count": 206,
       "created_at": "2026-10-21T22:23:02Z",
       "updated_at": "2026-10-21T22:23:31Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.1/Stirling-PDF-macos-universal.app.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 333241873,
       "digest": "sha256:0d56909f0109ec28cb7ac7fccd1133bd99d857ea8c849797ce980ead5497c9e2",
-      "download_count": 1150,
+      "download_count": 1907,
       "created_at": "2026-10-21T22:23:02Z",
       "updated_at": "2026-10-21T22:23:27Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.1/Stirling-PDF-macos-universal.dmg"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 188651945,
       "digest": "sha256:c278e36ddbe6147ec02a23b3b94a0842927520b721a22d90636ef21f5cea547d",
-      "download_count": 75,
+      "download_count": 145,
       "created_at": "2026-10-21T22:23:02Z",
       "updated_at": "2026-10-21T22:23:22Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.1/Stirling-PDF-server.jar"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 244066304,
       "digest": "sha256:ff9ccee5b758f0cc63daa7733be6c084d55e3e7471c9cc15c5e078687a6639ce",
-      "download_count": 196,
+      "download_count": 327,
       "created_at": "2026-10-21T22:23:02Z",
       "updated_at": "2026-10-21T22:23:21Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.1/Stirling-PDF-windows-arm64-setup.exe"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 269082624,
       "digest": "sha256:d1e43139ad00afd6c8e0bcf4d00cae305681d1971467d2a67c6536cf80546ddc",
-      "download_count": 4044,
+      "download_count": 7231,
       "created_at": "2026-10-21T22:23:02Z",
       "updated_at": "2026-10-21T22:23:21Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.1/Stirling-PDF-windows-x86_64.msi"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 385927200,
       "digest": "sha256:1badbf6634271cefb9bb607a54b7b5dfecc939783269af2f952acfeb7c59abf6",
-      "download_count": 304,
+      "download_count": 531,
       "created_at": "2026-10-21T22:23:02Z",
       "updated_at": "2026-10-21T22:23:26Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.1/Stirling-PDF-with-login.jar"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 298341792,
       "digest": "sha256:135006dfa974f9805708ecbf931ccd3da5b68f29cad7d62b9e67cc3a72ec4792",
-      "download_count": 542,
+      "download_count": 1085,
       "created_at": "2026-10-21T22:23:02Z",
       "updated_at": "2026-10-21T22:23:24Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.1/Stirling-PDF.jar"
@@ -438,14 +438,14 @@
   "body": "Smaller release with some nice viewer and editor improvements and bug fixes for annotation and compression\r\n\r\nKey features  are:\r\n- Arrow key support for viewer\r\n- Dual page view to support cover pages\r\n- Read aloud now starts at the selected text\r\n- You can now duplicate pages in page editor (multi tool)\r\n- Memory optimisations\r\n- Label damaged PDFs and offer Repair\r\n- Export PDF comments as CSV\r\n\r\n\r\nBug fixes\r\n- Fixed cases were compression was not correctly compressing\r\n- Fixed various annotation issues introduced in 3.2.0 \r\n- Fixed issues with default tool picker mode\r\n\r\n<!-- Release notes generated using configuration in .github/release.yml at main -->\r\n\r\n## What's Changed\r\n### Bug Fixes\r\n* fix: persist Default tool picker mode and Default view on launch settings by @mvanhorn in https://github.com/Stirling-Tools/Stirling-PDF/pull/6827\r\n* fix(annotate): transparent shape fills and hollow default shapes by @reecebrowne in https://github.com/Stirling-Tools/Stirling-PDF/pull/8574\r\n* fix(viewer): exit annotation mode when the toolbar button is clicked again by @balazs-szucs in https://github.com/Stirling-Tools/Stirling-PDF/pull/8590\r\n### Enhancements\r\n* Update Backend 3rd Party Licenses by @stirlingbot[bot] in https://github.com/Stirling-Tools/Stirling-PDF/pull/8067\r\n* feat(md-pdf-conversion): Keep code block line breaks in Markdown to PDF by @EthanHealy01 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8483\r\n* feat(viewer): Cover page option for dual-page view by @EthanHealy01 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8484\r\n* Add left/right arrow key navigation to PDF viewer by @iam-Gautham in https://github.com/Stirling-Tools/Stirling-PDF/pull/7136\r\n* feat(annotations): Export comments as CSV by @EthanHealy01 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8487\r\n* Fetch team and authorities with the supabase user lookup by @Frooodle in https://github.com/Stirling-Tools/Stirling-PDF/pull/8062\r\n* Ask where to run Stirling on first visit to SaaS by @EthanHealy01 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8417\r\n* Start settings tours from the editor home by @EthanHealy01 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8461\r\n* feat(read-aloud): Read aloud from selected text by @EthanHealy01 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8488\r\n* Add Galician (gl-ES) translation by @manuelmovilla in https://github.com/Stirling-Tools/Stirling-PDF/pull/8499\r\n* feat(pageEditor): add per-page duplicate action and Ctrl+D shortcut by @balazs-szucs in https://github.com/Stirling-Tools/Stirling-PDF/pull/8559\r\n* Track renames properly in flaky tests and a11y checks by @jbrunton96 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8575\r\n* perf: lazy-load Type3 font payloads by @balazs-szucs in https://github.com/Stirling-Tools/Stirling-PDF/pull/8584\r\n* Fix PDF permission inspection and annotation lifecycle regressions by @ConnorYoh in https://github.com/Stirling-Tools/Stirling-PDF/pull/8566\r\n* Discard qpdf compression output when it grows the file; bump to 3.2.1 by @Frooodle in https://github.com/Stirling-Tools/Stirling-PDF/pull/8586\r\n* Label damaged PDFs and offer Repair by @reecebrowne in https://github.com/Stirling-Tools/Stirling-PDF/pull/8589\r\n### Docker Updates\r\n* build(deps): bump step-security/harden-runner from 2.21.1 to 2.22.1 by @dependabot[bot] in https://github.com/Stirling-Tools/Stirling-PDF/pull/8535\r\n### Other Changes\r\n* build(deps): bump dorny/test-reporter from 3.0.0 to 3.2.0 by @dependabot[bot] in https://github.com/Stirling-Tools/Stirling-PDF/pull/8440\r\n* build(deps): bump github/codeql-action/upload-sarif from 4.38.2 to 4.38.3 by @dependabot[bot] in https://github.com/Stirling-Tools/Stirling-PDF/pull/8536\r\n* build(deps): bump actions/upload-artifact from 7.0.1 to 7.0.2 by @dependabot[bot] in https://github.com/Stirling-Tools/Stirling-PDF/pull/8537\r\n* Sync locale translations with en-US by @Frooodle in https://github.com/Stirling-Tools/Stirling-PDF/pull/8591\r\n\r\n## New Contributors\r\n* @iam-Gautham made their first contribution in https://github.com/Stirling-Tools/Stirling-PDF/pull/7136\r\n* @manuelmovilla made their first contribution in https://github.com/Stirling-Tools/Stirling-PDF/pull/8499\r\n\r\n**Full Changelog**: https://github.com/Stirling-Tools/Stirling-PDF/compare/v3.2.0...v3.2.1",
   "reactions": {
     "url": "https://api.github.com/repos/Stirling-Tools/Stirling-PDF/releases/420090088/reactions",
-    "total_count": 14,
-    "+1": 4,
+    "total_count": 17,
+    "+1": 5,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 5,
-    "rocket": 5,
+    "heart": 6,
+    "rocket": 6,
     "eyes": 0
   },
   "mentions_count": 11
