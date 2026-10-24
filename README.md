@@ -14,25 +14,25 @@ x install Stirling-PDF
 
 ## Code insight
 
-Total: **1,574,767** lines of code across **6839** files in the top 5 languages.
+Total: **1,576,002** lines of code across **6842** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Toml | 518,617 | 15 | 90,343 | 48 |
-| Java | 361,329 | 36,058 | 62,262 | 2579 |
-| Tsx | 283,722 | 14,776 | 22,667 | 2091 |
-| TypeScript | 243,139 | 29,525 | 25,189 | 2032 |
-| Json | 73,104 | 0 | 9 | 89 |
+| Toml | 518,623 | 15 | 90,343 | 48 |
+| Java | 361,579 | 36,077 | 62,283 | 2579 |
+| Tsx | 284,195 | 14,793 | 22,683 | 2092 |
+| TypeScript | 243,627 | 29,558 | 25,212 | 2034 |
+| Json | 73,110 | 0 | 9 | 89 |
 
 ## OpenSSF Scorecard
 
-Overall score: **7 / 10**
+Overall score: **7.1 / 10**
 
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **CI-Tests** (-1/10) — internal error: internal error: Client.Repositories.ListCheckRunsForRef: error during graphqlHandler.setupCheckRuns: Alt…
-- **SAST** (-1/10) — internal error: internal error: Client.Checks.ListCheckRunsForRef: error during graphqlHandler.setupCheckRuns: Although …
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Vulnerabilities** (0/10) — 116 existing vulnerabilities detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.2.1` (2026-10-21)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-23
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 94,757 · **Forks**: 11,399 · **Open issues**: 1,996 · **Contributors**: 311
+- **Stars**: 94,824 · **Forks**: 11,274 · **Open issues**: 1,996 · **Contributors**: 311
 
 ## Totals (cumulative)
 
-- **Releases**: 192 · **Merged PRs**: 4682 · **Open PRs**: 209 · **Closed issues**: 1654 · **Open issues**: 342 · **Commits**: 6396
+- **Releases**: 192 · **Merged PRs**: 4690 · **Open PRs**: 203 · **Closed issues**: 1656 · **Open issues**: 340 · **Commits**: 6404
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 6 | 156 | 158 | 9 | 70 | 199 |
-| last60d | 2026-08-24 | 6 | 452 | 190 | 25 | 102 | 502 |
-| 90d | 2026-07-25 | 7 | 722 | 203 | 44 | 129 | 779 |
-| last180d | 2026-04-26 | 16 | 1307 | 208 | 94 | 178 | 1347 |
-| 360d | 2025-10-28 | 52 | 2074 | 209 | 275 | 269 | 2023 |
-| last720d | 2024-11-02 | 100 | 3714 | 209 | 805 | 315 | 3907 |
+| 30d | 2026-09-24 | 6 | 157 | 152 | 10 | 67 | 207 |
+| last60d | 2026-08-25 | 6 | 457 | 184 | 26 | 102 | 510 |
+| 90d | 2026-07-26 | 7 | 728 | 196 | 45 | 128 | 787 |
+| last180d | 2026-04-27 | 16 | 1310 | 202 | 96 | 176 | 1355 |
+| 360d | 2025-10-29 | 52 | 2074 | 203 | 276 | 268 | 2031 |
+| last720d | 2024-11-03 | 100 | 3716 | 203 | 806 | 314 | 3915 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for Stirling-PDF lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:17:55Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:06:57Z._

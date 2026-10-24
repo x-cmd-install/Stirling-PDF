@@ -14,25 +14,25 @@ x install Stirling-PDF
 
 ## 代码洞察
 
-合计: **1,574,767** 行代码（覆盖前 5 种语言、共 **6839** 个文件）。
+合计: **1,576,002** 行代码（覆盖前 5 种语言、共 **6842** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Toml | 518,617 | 15 | 90,343 | 48 |
-| Java | 361,329 | 36,058 | 62,262 | 2579 |
-| Tsx | 283,722 | 14,776 | 22,667 | 2091 |
-| TypeScript | 243,139 | 29,525 | 25,189 | 2032 |
-| Json | 73,104 | 0 | 9 | 89 |
+| Toml | 518,623 | 15 | 90,343 | 48 |
+| Java | 361,579 | 36,077 | 62,283 | 2579 |
+| Tsx | 284,195 | 14,793 | 22,683 | 2092 |
+| TypeScript | 243,627 | 29,558 | 25,212 | 2034 |
+| Json | 73,110 | 0 | 9 | 89 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7 / 10**
+总评分: **7.1 / 10**
 
 评分最低的几项:
 
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **CI-Tests** (-1/10) — internal error: internal error: Client.Repositories.ListCheckRunsForRef: error during graphqlHandler.setupCheckRuns: Alt…
-- **SAST** (-1/10) — internal error: internal error: Client.Checks.ListCheckRunsForRef: error during graphqlHandler.setupCheckRuns: Although …
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Vulnerabilities** (0/10) — 116 existing vulnerabilities detected
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install Stirling-PDF
 ## 发布
 
 - **最新版本**: `v3.2.1` (2026-10-21)
-- **最近提交**: 2026-10-22
+- **最近提交**: 2026-10-23
 - **Release 含资产**: 11 个
 
 ## 流行度
 
-- **Star**: 94,757 · **Fork**: 11,399 · **开放 issue**: 1,996 · **贡献者**: 311
+- **Star**: 94,824 · **Fork**: 11,274 · **开放 issue**: 1,996 · **贡献者**: 311
 
 ## 累计统计
 
-- **发布数**: 192 · **已合并 PR**: 4682 · **开放 PR**: 209 · **已关闭 issue**: 1654 · **开放 issue**: 342 · **提交数**: 6396
+- **发布数**: 192 · **已合并 PR**: 4690 · **开放 PR**: 203 · **已关闭 issue**: 1656 · **开放 issue**: 340 · **提交数**: 6404
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 6 | 156 | 158 | 9 | 70 | 199 |
-| last60d | 2026-08-24 | 6 | 452 | 190 | 25 | 102 | 502 |
-| 90d | 2026-07-25 | 7 | 722 | 203 | 44 | 129 | 779 |
-| last180d | 2026-04-26 | 16 | 1307 | 208 | 94 | 178 | 1347 |
-| 360d | 2025-10-28 | 52 | 2074 | 209 | 275 | 269 | 2023 |
-| last720d | 2024-11-02 | 100 | 3714 | 209 | 805 | 315 | 3907 |
+| 30d | 2026-09-24 | 6 | 157 | 152 | 10 | 67 | 207 |
+| last60d | 2026-08-25 | 6 | 457 | 184 | 26 | 102 | 510 |
+| 90d | 2026-07-26 | 7 | 728 | 196 | 45 | 128 | 787 |
+| last180d | 2026-04-27 | 16 | 1310 | 202 | 96 | 176 | 1355 |
+| 360d | 2025-10-29 | 52 | 2074 | 203 | 276 | 268 | 2031 |
+| last720d | 2024-11-03 | 100 | 3716 | 203 | 806 | 314 | 3915 |
 
 ## Release 资产
 
@@ -90,4 +90,4 @@ Stirling-PDF 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261023.yml` · 2026-10-23T05:17:56Z._
+_数据快照: `data/card/261024.yml` · 2026-10-24T05:06:59Z._
