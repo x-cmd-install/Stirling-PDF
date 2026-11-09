@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.3.0` (2026-11-05)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-08
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 95,977 · **Forks**: 10,013 · **Open issues**: 2,014 · **Contributors**: 312
+- **Stars**: 96,083 · **Forks**: 9,769 · **Open issues**: 2,014 · **Contributors**: 312
 
 ## Totals (cumulative)
 
-- **Releases**: 194 · **Merged PRs**: 4768 · **Open PRs**: 234 · **Closed issues**: 1712 · **Open issues**: 302 · **Commits**: 6481
+- **Releases**: 194 · **Merged PRs**: 4776 · **Open PRs**: 226 · **Closed issues**: 1712 · **Open issues**: 302 · **Commits**: 6489
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 4 | 117 | 162 | 12 | 49 | 156 |
-| last60d | 2026-09-09 | 8 | 378 | 215 | 32 | 86 | 482 |
-| 90d | 2026-08-10 | 8 | 664 | 228 | 56 | 115 | 736 |
-| last180d | 2026-05-12 | 17 | 1313 | 234 | 119 | 162 | 1363 |
-| 360d | 2025-11-13 | 54 | 2077 | 234 | 314 | 238 | 2082 |
-| last720d | 2024-11-18 | 100 | 3745 | 234 | 821 | 278 | 3915 |
+| 30d | 2026-10-10 | 4 | 124 | 159 | 11 | 48 | 129 |
+| last60d | 2026-09-10 | 8 | 382 | 208 | 32 | 86 | 390 |
+| 90d | 2026-08-11 | 8 | 660 | 220 | 54 | 114 | 665 |
+| last180d | 2026-05-13 | 17 | 1320 | 226 | 118 | 162 | 1362 |
+| 360d | 2025-11-14 | 54 | 2079 | 226 | 313 | 238 | 2068 |
+| last720d | 2024-11-19 | 100 | 3752 | 226 | 820 | 278 | 3922 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for Stirling-PDF lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:30:31Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:58:55Z._
