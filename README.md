@@ -14,15 +14,15 @@ x install Stirling-PDF
 
 ## Code insight
 
-Total: **1,587,370** lines of code across **6934** files in the top 5 languages.
+Total: **1,587,907** lines of code across **6937** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Toml | 523,004 | 15 | 90,544 | 48 |
-| Java | 350,002 | 35,227 | 60,897 | 2552 |
-| Tsx | 292,489 | 15,090 | 23,144 | 2130 |
-| TypeScript | 256,253 | 30,843 | 26,224 | 2117 |
-| Json | 70,920 | 0 | 8 | 87 |
+| Toml | 523,005 | 15 | 90,543 | 48 |
+| Java | 350,553 | 35,255 | 60,957 | 2554 |
+| Tsx | 292,838 | 15,104 | 23,160 | 2130 |
+| TypeScript | 256,644 | 30,841 | 26,244 | 2118 |
+| Json | 70,308 | 0 | 8 | 87 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.3.0` (2026-11-05)
-- **Last commit**: 2026-11-08
+- **Last commit**: 2026-11-09
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 96,083 · **Forks**: 9,769 · **Open issues**: 2,014 · **Contributors**: 312
+- **Stars**: 96,193 · **Forks**: 9,323 · **Open issues**: 2,016 · **Contributors**: 312
 
 ## Totals (cumulative)
 
-- **Releases**: 194 · **Merged PRs**: 4776 · **Open PRs**: 226 · **Closed issues**: 1712 · **Open issues**: 302 · **Commits**: 6489
+- **Releases**: 194 · **Merged PRs**: 4783 · **Open PRs**: 224 · **Closed issues**: 1713 · **Open issues**: 303 · **Commits**: 6495
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 4 | 124 | 159 | 11 | 48 | 129 |
-| last60d | 2026-09-10 | 8 | 382 | 208 | 32 | 86 | 390 |
-| 90d | 2026-08-11 | 8 | 660 | 220 | 54 | 114 | 665 |
-| last180d | 2026-05-13 | 17 | 1320 | 226 | 118 | 162 | 1362 |
-| 360d | 2025-11-14 | 54 | 2079 | 226 | 313 | 238 | 2068 |
-| last720d | 2024-11-19 | 100 | 3752 | 226 | 820 | 278 | 3922 |
+| 30d | 2026-10-11 | 4 | 131 | 156 | 12 | 49 | 134 |
+| last60d | 2026-09-11 | 8 | 385 | 206 | 33 | 86 | 395 |
+| 90d | 2026-08-12 | 8 | 652 | 217 | 55 | 114 | 670 |
+| last180d | 2026-05-14 | 17 | 1323 | 224 | 118 | 163 | 1367 |
+| 360d | 2025-11-15 | 54 | 2082 | 224 | 313 | 239 | 2073 |
+| last720d | 2024-11-20 | 100 | 3752 | 224 | 821 | 279 | 3928 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for Stirling-PDF lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:58:55Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:54:13Z._
