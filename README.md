@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 96,537 · **Forks**: 9,347 · **Open issues**: 2,025 · **Contributors**: 315
+- **Stars**: 96,620 · **Forks**: 9,355 · **Open issues**: 2,025 · **Contributors**: 315
 
 ## Totals (cumulative)
 
-- **Releases**: 194 · **Merged PRs**: 4813 · **Open PRs**: 232 · **Closed issues**: 1719 · **Open issues**: 306 · **Commits**: 6525
+- **Releases**: 194 · **Merged PRs**: 4813 · **Open PRs**: 246 · **Closed issues**: 1790 · **Open issues**: 235 · **Commits**: 6525
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 4 | 126 | 157 | 11 | 50 | 164 |
-| last60d | 2026-09-15 | 8 | 358 | 215 | 33 | 85 | 425 |
-| 90d | 2026-08-16 | 8 | 647 | 226 | 54 | 119 | 700 |
-| last180d | 2026-05-18 | 17 | 1339 | 232 | 121 | 166 | 1397 |
-| 360d | 2025-11-19 | 54 | 2092 | 232 | 318 | 241 | 2103 |
-| last720d | 2024-11-24 | 100 | 3752 | 232 | 817 | 282 | 3916 |
+| 30d | 2026-10-16 | 3 | 125 | 162 | 14 | 43 | 164 |
+| last60d | 2026-09-16 | 8 | 345 | 228 | 42 | 76 | 425 |
+| 90d | 2026-08-17 | 8 | 641 | 240 | 64 | 104 | 700 |
+| last180d | 2026-05-19 | 17 | 1334 | 246 | 144 | 141 | 1397 |
+| 360d | 2025-11-20 | 54 | 2087 | 246 | 372 | 187 | 2103 |
+| last720d | 2024-11-25 | 100 | 3745 | 246 | 883 | 215 | 3911 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for Stirling-PDF lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:06:27Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:12:19Z._
