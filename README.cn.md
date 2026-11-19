@@ -14,15 +14,15 @@ x install Stirling-PDF
 
 ## 代码洞察
 
-合计: **1,614,204** 行代码（覆盖前 5 种语言、共 **7119** 个文件）。
+合计: **1,710,969** 行代码（覆盖前 5 种语言、共 **7424** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Toml | 523,527 | 20 | 90,623 | 48 |
-| Java | 357,415 | 35,284 | 61,951 | 2621 |
-| Tsx | 299,225 | 15,303 | 23,605 | 2170 |
-| TypeScript | 268,478 | 31,727 | 27,276 | 2193 |
-| Json | 70,380 | 0 | 8 | 87 |
+| Toml | 558,766 | 20 | 95,431 | 48 |
+| Java | 365,381 | 35,502 | 62,857 | 2660 |
+| TypeScript | 313,596 | 33,553 | 31,460 | 2425 |
+| Tsx | 306,208 | 15,544 | 24,193 | 2204 |
+| Json | 70,403 | 0 | 8 | 87 |
 
 ## OpenSSF Scorecard 评分
 
@@ -42,44 +42,44 @@ x install Stirling-PDF
 
 ## 发布
 
-- **最新版本**: `v3.3.0` (2026-11-05)
-- **最近提交**: 2026-11-17
+- **最新版本**: `v3.4.0` (2026-11-19)
+- **最近提交**: 2026-11-19
 - **Release 含资产**: 11 个
 
 ## 流行度
 
-- **Star**: 96,815 · **Fork**: 9,369 · **开放 issue**: 2,029 · **贡献者**: 316
+- **Star**: 96,968 · **Fork**: 9,386 · **开放 issue**: 2,034 · **贡献者**: 320
 
 ## 累计统计
 
-- **发布数**: 194 · **已合并 PR**: 4831 · **开放 PR**: 223 · **已关闭 issue**: 1790 · **开放 issue**: 239 · **提交数**: 6541
+- **发布数**: 195 · **已合并 PR**: 4858 · **开放 PR**: 211 · **已关闭 issue**: 1803 · **开放 issue**: 231 · **提交数**: 6566
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 3 | 138 | 129 | 6 | 39 | 144 |
-| last60d | 2026-09-18 | 8 | 344 | 205 | 41 | 78 | 377 |
-| 90d | 2026-08-19 | 8 | 648 | 217 | 63 | 105 | 660 |
-| last180d | 2026-05-21 | 16 | 1345 | 223 | 144 | 142 | 1376 |
-| 360d | 2025-11-22 | 54 | 2101 | 223 | 372 | 191 | 2068 |
-| last720d | 2024-11-27 | 100 | 3752 | 223 | 879 | 219 | 3909 |
+| 30d | 2026-10-20 | 4 | 155 | 115 | 8 | 37 | 169 |
+| last60d | 2026-09-20 | 9 | 364 | 196 | 46 | 76 | 402 |
+| 90d | 2026-08-21 | 9 | 649 | 205 | 69 | 103 | 685 |
+| last180d | 2026-05-23 | 17 | 1363 | 211 | 152 | 139 | 1401 |
+| 360d | 2025-11-24 | 55 | 2112 | 211 | 383 | 184 | 2093 |
+| last720d | 2024-11-29 | 100 | 3770 | 211 | 886 | 212 | 3927 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [latest.json](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.3.0/latest.json) | 5.4 KiB | `other` |
-| [Stirling-PDF-linux-x86_64.AppImage](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.3.0/Stirling-PDF-linux-x86_64.AppImage) | 295.7 MiB | `native/linux/x64` |
-| [Stirling-PDF-linux-x86_64.deb](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.3.0/Stirling-PDF-linux-x86_64.deb) | 216.9 MiB | `native/linux/x64` |
-| [Stirling-PDF-linux-x86_64.rpm](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.3.0/Stirling-PDF-linux-x86_64.rpm) | 214.6 MiB | `native/linux/x64` |
-| [Stirling-PDF-macos-universal.app.tar.gz](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.3.0/Stirling-PDF-macos-universal.app.tar.gz) | 262.5 MiB | `native/darwin/x64` |
-| [Stirling-PDF-macos-universal.dmg](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.3.0/Stirling-PDF-macos-universal.dmg) | 262.7 MiB | `native/darwin/x64` |
-| [Stirling-PDF-server.jar](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.3.0/Stirling-PDF-server.jar) | 221.5 MiB | `other` |
-| [Stirling-PDF-windows-arm64-setup.exe](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.3.0/Stirling-PDF-windows-arm64-setup.exe) | 200.1 MiB | `native/win/arm64` |
-| [Stirling-PDF-windows-x86_64.msi](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.3.0/Stirling-PDF-windows-x86_64.msi) | 211.7 MiB | `native/win/x64` |
-| [Stirling-PDF-with-login.jar](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.3.0/Stirling-PDF-with-login.jar) | 403.4 MiB | `other` |
-| [Stirling-PDF.jar](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.3.0/Stirling-PDF.jar) | 318.9 MiB | `other` |
+| [latest.json](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.4.0/latest.json) | 5.4 KiB | `other` |
+| [Stirling-PDF-linux-x86_64.AppImage](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.4.0/Stirling-PDF-linux-x86_64.AppImage) | 292.5 MiB | `native/linux/x64` |
+| [Stirling-PDF-linux-x86_64.deb](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.4.0/Stirling-PDF-linux-x86_64.deb) | 213.7 MiB | `native/linux/x64` |
+| [Stirling-PDF-linux-x86_64.rpm](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.4.0/Stirling-PDF-linux-x86_64.rpm) | 211.4 MiB | `native/linux/x64` |
+| [Stirling-PDF-macos-universal.app.tar.gz](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.4.0/Stirling-PDF-macos-universal.app.tar.gz) | 260.0 MiB | `native/darwin/x64` |
+| [Stirling-PDF-macos-universal.dmg](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.4.0/Stirling-PDF-macos-universal.dmg) | 260.2 MiB | `native/darwin/x64` |
+| [Stirling-PDF-server.jar](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.4.0/Stirling-PDF-server.jar) | 217.4 MiB | `other` |
+| [Stirling-PDF-windows-arm64-setup.exe](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.4.0/Stirling-PDF-windows-arm64-setup.exe) | 196.8 MiB | `native/win/arm64` |
+| [Stirling-PDF-windows-x86_64.msi](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.4.0/Stirling-PDF-windows-x86_64.msi) | 208.4 MiB | `native/win/x64` |
+| [Stirling-PDF-with-login.jar](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.4.0/Stirling-PDF-with-login.jar) | 394.5 MiB | `other` |
+| [Stirling-PDF.jar](https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.4.0/Stirling-PDF.jar) | 309.6 MiB | `other` |
 
 ## 改进这些数据
 
@@ -90,4 +90,4 @@ Stirling-PDF 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T09:43:39Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T07:48:10Z._
