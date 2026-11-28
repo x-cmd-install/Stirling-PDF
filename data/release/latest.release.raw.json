@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5568,
       "digest": "sha256:4b116394f1cd924da0e0a1d57cd0e183c6f8cebd9c64bdd442f6e03cf775178c",
-      "download_count": 49277,
+      "download_count": 55085,
       "created_at": "2026-11-22T07:35:32Z",
       "updated_at": "2026-11-22T07:35:33Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.5.0/latest.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 320809464,
       "digest": "sha256:c51ec24e64d0cf0acb3b6eff6bf40a2c4363bfb04151693a211a1e46868e7d45",
-      "download_count": 617,
+      "download_count": 697,
       "created_at": "2026-11-22T07:35:32Z",
       "updated_at": "2026-11-22T07:35:54Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.5.0/Stirling-PDF-linux-x86_64.AppImage"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 240592982,
       "digest": "sha256:a106a36a5567d51e903e8553c68a40ca6bbc5dfb7f5e16cb15aadf186be71985",
-      "download_count": 5574,
+      "download_count": 6219,
       "created_at": "2026-11-22T07:35:32Z",
       "updated_at": "2026-11-22T07:35:50Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.5.0/Stirling-PDF-linux-x86_64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 238013202,
       "digest": "sha256:8dd6933f9ce2c96ac38410948959e3a7cad48a6e4d5b49221cbb1af80726ca81",
-      "download_count": 380,
+      "download_count": 431,
       "created_at": "2026-11-22T07:35:32Z",
       "updated_at": "2026-11-22T07:35:50Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.5.0/Stirling-PDF-linux-x86_64.rpm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 293307441,
       "digest": "sha256:182241ee5e2914d6fdcf382bdc75ed2194bd5516adc462bce6c49e5f4a8aaad4",
-      "download_count": 1674,
+      "download_count": 1813,
       "created_at": "2026-11-22T07:35:32Z",
       "updated_at": "2026-11-22T07:35:53Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.5.0/Stirling-PDF-macos-universal.app.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 292738647,
       "digest": "sha256:6bed1eb2c3282e83ed790f1d49d977b7d3a6f79d8df53e80cf1dedebcdf48ae1",
-      "download_count": 3841,
+      "download_count": 4284,
       "created_at": "2026-11-22T07:35:32Z",
       "updated_at": "2026-11-22T07:35:52Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.5.0/Stirling-PDF-macos-universal.dmg"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 231607117,
       "digest": "sha256:172cd530c5f4ae549a27116e737ae51f18d1c84c1270cb69e5cb86ebc699cf1f",
-      "download_count": 500,
+      "download_count": 554,
       "created_at": "2026-11-22T07:35:32Z",
       "updated_at": "2026-11-22T07:35:48Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.5.0/Stirling-PDF-server.jar"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 217314256,
       "digest": "sha256:fe784ea445b09e7e2c5bd513b362117399a9faf35a33e0910398ee75c1100ac8",
-      "download_count": 1409,
+      "download_count": 1583,
       "created_at": "2026-11-22T07:35:32Z",
       "updated_at": "2026-11-22T07:35:49Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.5.0/Stirling-PDF-windows-arm64-setup.exe"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 234663936,
       "digest": "sha256:632e07902c3aef8167dcc9038f712e8aa5ee382396d803caa7c8029812281856",
-      "download_count": 26870,
+      "download_count": 30108,
       "created_at": "2026-11-22T07:35:32Z",
       "updated_at": "2026-11-22T07:35:50Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.5.0/Stirling-PDF-windows-x86_64.msi"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 417245273,
       "digest": "sha256:dbfb56d2816b1e0d13dac513218d6255880771d6671b896f72e1f58463fd4078",
-      "download_count": 1293,
+      "download_count": 1444,
       "created_at": "2026-11-22T07:35:32Z",
       "updated_at": "2026-11-22T07:35:57Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.5.0/Stirling-PDF-with-login.jar"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 328255525,
       "digest": "sha256:53e2cd9fd3b8b8beaaab7e6c2c929c80f6f355326418e6703790ed412e2afca9",
-      "download_count": 2715,
+      "download_count": 3092,
       "created_at": "2026-11-22T07:35:32Z",
       "updated_at": "2026-11-22T07:35:54Z",
       "browser_download_url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.5.0/Stirling-PDF.jar"
@@ -438,13 +438,13 @@
   "body": "Stirling Office Convert has now replaced Libreoffice in our docker containers! \r\nAlong with speed increases and better quality conversions it also means our docker going forward in 3.5.1 will be half the size!  Thank you to everyone who sent us example files, and please keep reporting any conversions that don't look right! We are hoping to get this perfect!\r\n\r\nWe have also made a big fix for desktop users whose documents were reloading a few seconds after upload, Thank you to everyone who reported this and great to see people using the new feedback button! (In bottom right) \r\n\r\nWith the Office Convert change (outside of the tools getting the toggle removed)\r\n- Compress now uses Office Convert\r\n- HTML to PDF supports zoom again\r\n- New admin setting to cap how many Office conversions run at once and queue\r\n- Damaged Office, ebook and HTML files now give a clear \"could not be read\" message instead of an error\r\n\r\nOther changes are:\r\n- Faster desktop PDF operations, with the PDF engine now pre-installed in the app\r\n- Performance improvements across the viewer, file list etc\r\n- JPDFium and other dependency updates causing various bug fixes and improvements \r\n\r\nWe also fixed some bugs including:\r\n- Desktop documents reloading themselves and losing progress shortly after being opened\r\n- Filled form fields showing their value twice in the viewer\r\n- Form values being invisible in dark mode\r\n- Thumbnail sidebar getting stuck on \"Loading...\" after applying changes\r\n\r\nNote (breaking changes):\r\n- PDF to .doc (Word 97-2003) output has been removed. Use docx or odt instead; API calls, pipelines and automations asking for `doc` will now return an error\r\n- .wpd, .wps, .lwp, .abw, .hwp and .xps files are no longer accepted for conversion\r\n- `groupsToRemove` entries for removed tools (LibreOffice, Calibre, Weasyprint, OpenCV, etc.) no longer disable anything. \r\n\r\n<!-- Release notes generated using configuration in .github/release.yml at main -->\r\n\r\n## What's Changed\r\n### Bug Fixes\r\n* fix(frontend): silence dev proxy ECONNREFUSED spam by @balazs-szucs in https://github.com/Stirling-Tools/Stirling-PDF/pull/8853\r\n* fix(ui): align add-password advanced dropdown to be more consistent with the rest of the UI by @balazs-szucs in https://github.com/Stirling-Tools/Stirling-PDF/pull/8760\r\n### Enhancements\r\n* Support accessibility tagging of formulas in Text Editor by @EthanHealy01 in https://github.com/Stirling-Tools/Stirling-PDF/pull/8945\r\n* Send self-hosted Enterprise buyers to the hosted Enterprise page by @reecebrowne in https://github.com/Stirling-Tools/Stirling-PDF/pull/8940\r\n* Ask signed-out desktop users to sign in for tools that need an account by @Frooodle in https://github.com/Stirling-Tools/Stirling-PDF/pull/8952\r\n* perf(analytics): start the PostHog client lazily and cut its queue thread wakeups by @balazs-szucs in https://github.com/Stirling-Tools/Stirling-PDF/pull/8562\r\n* perf(viewer): decouple toolbar notifier subscriptions from state variables by @balazs-szucs in https://github.com/Stirling-Tools/Stirling-PDF/pull/8438\r\n* perf(files): consolidate filtering and reduce temporary allocations by @balazs-szucs in https://github.com/Stirling-Tools/Stirling-PDF/pull/8557\r\n* perf(policies): fetch the policy list once per session state by @balazs-szucs in https://github.com/Stirling-Tools/Stirling-PDF/pull/8357\r\n* refactor(settings): improve accessibility and styling for settings navigation by @balazs-szucs in https://github.com/Stirling-Tools/Stirling-PDF/pull/8701\r\n* Update and improve zh-TW Traditional Chinese translations by @PeterDaveHello in https://github.com/Stirling-Tools/Stirling-PDF/pull/8657\r\n* Never reload an open document from disk; only track its original going missing by @Frooodle in https://github.com/Stirling-Tools/Stirling-PDF/pull/8980\r\n* Fix viewer drawing filled form values twice by @Frooodle in https://github.com/Stirling-Tools/Stirling-PDF/pull/9007\r\n* Ship JPDFium natives pre-installed in the desktop bundle by @Frooodle in https://github.com/Stirling-Tools/Stirling-PDF/pull/8843\r\n### Other Changes\r\n* build(deps): bump JPDFium to 1.3.1 by @balazs-szucs in https://github.com/Stirling-Tools/Stirling-PDF/pull/8807\r\n* Replace LibreOffice, Calibre, WeasyPrint and OpenCV with Stirling Office Convert by @Frooodle in https://github.com/Stirling-Tools/Stirling-PDF/pull/8939\r\n* build(deps): bump JPDFium to 1.3.2 by @Frooodle in https://github.com/Stirling-Tools/Stirling-PDF/pull/9006\r\n\r\n\r\n**Full Changelog**: https://github.com/Stirling-Tools/Stirling-PDF/compare/v3.4.0...v3.5.0",
   "reactions": {
     "url": "https://api.github.com/repos/Stirling-Tools/Stirling-PDF/releases/454098653/reactions",
-    "total_count": 29,
+    "total_count": 31,
     "+1": 8,
     "-1": 0,
     "laugh": 1,
-    "hooray": 8,
+    "hooray": 9,
     "confused": 0,
-    "heart": 8,
+    "heart": 9,
     "rocket": 4,
     "eyes": 0
   },
